@@ -116,7 +116,7 @@ const Index = () => {
             }} transition={{
               duration: 0.5,
               delay: 0.2
-            }}>QR Code Generator By Tarek Mostafa</motion.h1>
+            }}>Qgen</motion.h1>
                 <motion.p className="text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto px-4" initial={{
               opacity: 0,
               y: -10
@@ -127,7 +127,7 @@ const Index = () => {
               duration: 0.5,
               delay: 0.3
             }}>
-                  Create custom QR codes for any purpose. Select a type below to get started.
+                  You can generate fully customized QR codes—designed and optimized to suit any conceivable use case, whether it’s for marketing campaigns, event management, secure transactions, personal projects, or any other purpose you can imagine.
                 </motion.p>
               </div>
 
